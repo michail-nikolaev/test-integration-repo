@@ -1,1 +1,1 @@
-{"content": "def hello_world():\n    print('Hello from GitHub integration!')\n\nif __name__ == '__main__':\n    hello_world()", "encoding": "base64"}
+{"content": "def hello_world():\n    print('Hello from GitHub integration!')\n\nif __name__ == '__main__':\n    hello_world()", "encoding": "utf8"}
